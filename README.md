@@ -1,55 +1,50 @@
-# ![Kalki Tech](path/to/kalki-tech-logo.png)  
-# 30-Day Digital Design Workshop by Kalki Tech  
+<p align="center">
+  <img src="https://kalki-tech.com/wp-content/uploads/2024/01/Kalki-Tech-logo-JPG-scaled.jpg" alt="Kalki Tech Logo" width="250">
+</p>
 
-This repository documents my learnings from the **Kalki Tech 30-Day Digital Design Workshop**. Each day covers different aspects of digital design, and I have summarized key takeaways, concepts, and exercises here.
+# 30-Day Digital Design Workshop by Kalki Tech  
+### Kalki Tech is Driving Innovation in Defence and Space.
+
+This repository documents my **hands-on problem-solving approach** in the **Kalki Tech 30-Day Digital Design Workshop**. Each day covers practical aspects of digital design, with problem statements, solutions, and implementations.
 
 ---
 
 ## 📌 Index  
-- [Day 1: Topic Name](#day-1-topic-name)  
-- [Day 2: Topic Name](#day-2-topic-name)  
-- [Day 3: Topic Name](#day-3-topic-name)  
-- ...  
-- [Day 30: Topic Name](#day-30-topic-name)  
+- [Day 1: Introduction to Digital Design](#day-1-introduction-to-digital-design)  
+- [Day 2: Number Systems and Conversions](#day-2-number-systems-and-conversions)  
+- [Day 3: Complements in Number Systems](#day-3-complements-in-number-systems)  
 
----
 
 ## 📝 Daily Learnings  
 
-### Day 1: Topic Name  
+### Day 1: Introduction to Digital Design  
+📅 Date: 2025-01-16  
+
+🚀 **Real-World Relevance:**  
+- **Why Digital Design?** Digital circuits are the backbone of processors, memory, and embedded systems.  
+- **Industry Applications:** Used in microcontrollers, FPGA-based designs, and SoCs.  
+
+### Day 2: Number Systems and Conversions  
 📅 Date: YYYY-MM-DD  
-📖 **Concepts Covered:**  
-- Point 1  
-- Point 2  
-- Point 3  
 
-🔍 **Key Takeaways:**  
-- Summary of what was learned  
-- Important notes or insights  
+🔍 **Problem Statement:**  
+*A CPU processes instructions in binary, but humans use decimal. How do we efficiently convert between these systems?*  
+#### Overview of number systems used in digital design:
+- Binary (Base-2)
+- Decimal (Base-10)
+- Hexadecimal (Base-16)
+- Octal (Base-8)
+#### Conversion methods between different number systems:
+- Binary to Decimal
+- Decimal to Binary
+- Binary to Hexadecimal
+- Hexadecimal to Binary
+- Octal to Binary and vice versa
 
----
-
-### Day 2: Topic Name  
+### Day 3: Compliments in Number system
 📅 Date: YYYY-MM-DD  
-📖 **Concepts Covered:**  
-- Point 1  
-- Point 2  
-- Point 3  
+📖 **Concepts Covered:** 
 
-🔍 **Key Takeaways:**  
-- Summary of what was learned  
-- Important notes or insights  
-
----
-
-(Continue the same format for all days.)
-
----
 
 ## 📚 References  
-- [Kalki Tech Course Page](#) *(Add link if available)*  
-- Additional resources  
-
----
-
-Feel free to modify it as needed. Let me know if you want any enhancements! 🚀
+- [Kalki Tech Course Page](#) *(Add link if available)*
